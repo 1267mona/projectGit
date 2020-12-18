@@ -1,2 +1,1 @@
-# projectGit
-This is to create my new project.
+TODO LIST
